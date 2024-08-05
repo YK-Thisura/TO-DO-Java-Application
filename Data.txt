@@ -1,0 +1,10 @@
+Grocery shopping,Low,2024-08-05,Buy groceries for the week
+Doctor appointment,High,2024-08-07,Annual check-up with Dr. Smith
+Call plumber,Medium,2024-08-08,Fix the kitchen sink leak
+Team meeting,Medium,2024-08-06,Weekly team sync-up
+Gym Workout,High,2024-08-05,Morning workout at the gym
+Plan vacation,Low,2024-08-15,Research and book flights and hotels for the trip
+Go to History Class,High,2024-08-15,Pay Water Bills
+Day Out with Friends,Medium,2024-08-13,Day out to sea beach
+Play Cricket,Low,2024-08-18,Play Cricket with friends
+Read New Novel,Low,2024-08-18,Read Beast Quest novel
