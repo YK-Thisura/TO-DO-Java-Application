@@ -30,4 +30,6 @@ The Todo Desktop Application is a Java-based desktop application developed using
 - The application works offline, allowing you to manage your tasks without requiring an internet connection.
 
 ## Screenshots
+![1](https://github.com/user-attachments/assets/80bac44f-503a-4fe1-86b2-77028bbb95cd)
+
 
